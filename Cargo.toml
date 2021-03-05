@@ -1,0 +1,8 @@
+[package]
+name = "hangman"
+version = "0.0.1"
+authors = ["Sergiu MARIES <ser.gyu.1696@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+bindings = { package = "hangman-bindings", path = "bindings" }

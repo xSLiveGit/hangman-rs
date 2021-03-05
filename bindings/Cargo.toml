@@ -1,0 +1,11 @@
+[package]
+name = "hangman-bindings"
+version = "0.0.1"
+authors = ["Sergiu Maries <ser.gyu.1696@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+windows = "0.3.1"
+
+[build-dependencies]
+windows = "0.3.1"
